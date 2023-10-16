@@ -1,0 +1,21 @@
+
+.container {
+    max-width: 600px; 
+    height: 350px;
+    margin: 100px auto; 
+    padding: 20px;
+    border: 2px solid #343a40; 
+    border-radius: 10px;
+}
+
+.custom-form .mb-3 {
+    margin-bottom: 200px;
+}
+
+.custom-form label {
+    font-weight: bold; 
+}
+
+.custom-form .btn {
+    margin-right: 10px; 
+}
