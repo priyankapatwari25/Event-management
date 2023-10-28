@@ -1,0 +1,47 @@
+#navbar ul li a{
+    font-size: 22px;
+    color: white;
+}
+
+#navbar ul li{
+    padding-left: 50px;
+}
+
+#about p{
+    padding: 50px !important;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.dropdown-menu {
+    background-color: #343a40; 
+}
+
+.dropdown-item {
+    color: #ffffff; 
+}
+
+.dropdown-item:hover{
+    background-color: #555b62; 
+}
+
+#con {
+    max-width: 600px; 
+    height: 350px;
+    margin: 100px auto; 
+    padding: 20px;
+    border: 2px solid #343a40; 
+    border-radius: 10px;
+}
+
+#mb {
+    margin-bottom: 200px;
+}
+
+#bt {
+    margin-right: 10px; 
+}
